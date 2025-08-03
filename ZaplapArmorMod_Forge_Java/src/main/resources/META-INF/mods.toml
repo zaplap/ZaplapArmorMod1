@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="customarmor"
+version="1.0"
+displayName="Custom Armor Mod"
+description='''Adds copper, emerald, ruby and obsidian armor to Minecraft.'''
